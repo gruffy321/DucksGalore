@@ -1,0 +1,17 @@
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\bin\Debug\net6.0-windows\DucksGalore.exe
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\bin\Debug\net6.0-windows\DucksGalore.deps.json
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\bin\Debug\net6.0-windows\DucksGalore.runtimeconfig.json
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\bin\Debug\net6.0-windows\DucksGalore.dll
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\bin\Debug\net6.0-windows\DucksGalore.pdb
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\obj\Debug\net6.0-windows\DucksGalore.csproj.AssemblyReference.cache
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\obj\Debug\net6.0-windows\DucksGalore.Form1.resources
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\obj\Debug\net6.0-windows\DucksGalore.csproj.GenerateResource.cache
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\obj\Debug\net6.0-windows\DucksGalore.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\obj\Debug\net6.0-windows\DucksGalore.AssemblyInfoInputs.cache
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\obj\Debug\net6.0-windows\DucksGalore.AssemblyInfo.cs
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\obj\Debug\net6.0-windows\DucksGalore.csproj.CoreCompileInputs.cache
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\obj\Debug\net6.0-windows\DucksGalore.dll
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\obj\Debug\net6.0-windows\refint\DucksGalore.dll
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\obj\Debug\net6.0-windows\DucksGalore.pdb
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\obj\Debug\net6.0-windows\DucksGalore.genruntimeconfig.cache
+D:\VisualStudioCSharpProjects\DuckGaloreOOP\DucksGalore\obj\Debug\net6.0-windows\ref\DucksGalore.dll
